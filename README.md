@@ -18,17 +18,17 @@ This project analyzes quiz performance data from the NEET Testline app to provid
 
 # Approach
 
-1. Data Analysis
+1. Data Analysis - 
 Extract quiz responses, topic distributions, and difficulty levels.
 
-2. Recommendations
+2. Recommendations -
 Recommend according to the performance, suggestions are being povided.
 
-4. Student Persona Profiling
+4. Student Persona Profiling -
 Classify students into personas based on accuracy and consistency.
 Example personas: "The Fast Learner" ,"The Careful Thinker"," "The Balanced Performer".
 
-5. NEET Rank Prediction
+5. NEET Rank Prediction -
 A probabilistic model using quiz scores.
 Predict estimated ranks based on quiz performance trends.
 
