@@ -58,3 +58,22 @@ The histogram titled "Score Distribution" shows the frequency of scores.
 ![image](https://github.com/user-attachments/assets/76c39bfa-8520-4e35-b4b6-5ed6ff2f9d84)
 
 This heatmap indicates that the key areas for improvement of student performance are such as reducing incorrect answers to boost accuracy and overall score.
+
+![image](https://github.com/user-attachments/assets/70d4dad0-fa2c-498e-8f6d-1f9d79cb52bc)
+Here, clustering of students is done into three distinct personas based on accuracy, speed, and score:
+The Fast Learner (Cluster 0)
+Quick response time but lower accuracy.
+Strength: Speed and agility in answering.
+Weakness: Needs to improve precision to boost overall performance.
+
+The Careful Thinker (Cluster 1)
+High accuracy but slower response times.
+Strength: Strong understanding and careful decision-making.
+Weakness: Needs to increase speed to optimize performance.
+
+The Balanced Performer (Cluster 2)
+Well-rounded with good accuracy and speed.
+Strength: Consistency across metrics.
+Weakness: Needs slight improvements in stability to maximize results.
+
+This segmentation helps tailor strategies like, accuracy drills for fast learners, speed training for careful thinkers, and consistency-building exercises for balanced performers.
