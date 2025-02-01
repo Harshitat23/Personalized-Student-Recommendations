@@ -63,6 +63,7 @@ This heatmap indicates that the key areas for improvement of student performance
 ![image](https://github.com/user-attachments/assets/70d4dad0-fa2c-498e-8f6d-1f9d79cb52bc)
 
 Here, clustering of students is done into three distinct personas based on accuracy, speed, and score:
+
 The Fast Learner (Cluster 0)
 Quick response time but lower accuracy.
 Strength: Speed and agility in answering.
