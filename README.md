@@ -36,3 +36,25 @@ Predict estimated ranks based on quiz performance trends.
 
 ![image](https://github.com/user-attachments/assets/1d3600de-7bf7-4594-a3f6-86baf2a6fb72)
 
+Here, it can be seen that comparison of three performance metrics: Score, Accuracy, and Mistakes.
+-> Score has the highest value, Accuracy is represented with a lower value, indicating a moderate level of correctness, Mistakes have a small but visible value, suggesting some errors were made.
+-> The graph highlights the dominance of the score metric.
+
+![image](https://github.com/user-attachments/assets/186c364a-b6cd-4858-b4a9-983ac191854b)
+
+The pie chart shows "Accuracy Distribution", proportion of different accuracy levels among historical data
+-> High (>70%): Representing the majority at 57.1%, indicating most instances achieved high accuracy.
+-> Low (<50%): Comprising 28.6%, showing a considerable number of instances with low accuracy.
+-> Medium (50-70%): The smallest segment at 14.3%, reflecting fewer instances with medium accuracy.
+The chart visually emphasizes that over half of the cases had high accuracy, while medium accuracy is the least frequent.
+
+![image](https://github.com/user-attachments/assets/821683f7-b419-4fb5-a14d-80544337b6c7)
+
+The histogram titled "Score Distribution" shows the frequency of scores.
+-> Scores around 40 have the highest frequency.
+-> A smaller peak is visible near 120, suggesting some high-scoring instances.
+-> The distribution is somewhat spread out, with scores ranging from below 20 to above 100.
+
+![image](https://github.com/user-attachments/assets/76c39bfa-8520-4e35-b4b6-5ed6ff2f9d84)
+
+This heatmap indicates that the key areas for improvement of student performance are such as reducing incorrect answers to boost accuracy and overall score.
